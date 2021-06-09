@@ -16,4 +16,4 @@ Bonus:
 2. Play it just enough times for each credits animation
 3. Optionally, leave it flashing when all credits have been shown
 
-![typewrite](img/typewriter.png)
+[![typewriter](img/typewriter.png)](https://dciforks.github.io/UIB-interaction-typewriter/)
